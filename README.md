@@ -1,3 +1,3 @@
 # java-guessTheWord
 
-GuessWord.jar is an executble file whach can be downloaded and ran separately
+GuessWord.jar is an executble file which can be downloaded and ran separately
